@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18607" started-at="2021-05-06T06:16:45Z" finished-at="2021-05-06T06:17:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18607" started-at="2021-05-06T06:16:45Z" finished-at="2021-05-06T06:17:03Z">
+      <class name="com.qa.automate.Autodemo">
+        <test-method status="PASS" signature="setBrowser()[pri:0, instance:com.qa.automate.Autodemo@68be2bc2]" name="setBrowser" is-config="true" duration-ms="1956" started-at="2021-05-06T11:46:45Z" finished-at="2021-05-06T11:46:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method status="PASS" signature="getdone()[pri:0, instance:com.qa.automate.Autodemo@68be2bc2]" name="getdone" duration-ms="11373" started-at="2021-05-06T11:46:47Z" finished-at="2021-05-06T11:46:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdone -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.qa.automate.Autodemo@68be2bc2]" name="Teardown" is-config="true" duration-ms="5255" started-at="2021-05-06T11:46:58Z" finished-at="2021-05-06T11:47:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.qa.automate.Autodemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
